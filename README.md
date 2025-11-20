@@ -10,16 +10,23 @@ This project presents an interactive Power BI dashboard analyzing India’s expo
 🧰 Tech Stack
 
 •	Power BI Desktop
+
 •	Power Query
+
 •	DAX (Data Analysis Expressions)
+
 •	Microsoft Excel
+
 •	Power BI Visuals: Bar charts, Line charts, Cards, Tooltips, Filters
 
 🌐 Data Source
 
 Government of India – Export and Import Data Bank
+
 Includes:
+
 •	Year wise Commodity-wise export and import values 
+
 •	Year wise Country-wise export and import values
 
 ⭐ Features
@@ -31,22 +38,35 @@ India’s export–import data is large and difficult to interpret because it’
 📍 2 Goal of the Dashboard
 
 This dashboard helps present India’s export and import data in a clear and simple way. It allows users to compare yearly trade performance, understand trade balance trends, and identify top or bottom countries and commodities. It also provides Share % and Growth % insights to support better analysis and decision-making.
+
 📍 3  Key Visuals
 
 •	📊 KPI Cards: Total Export, Total Import, Trade Balance
+
 •	📈 Year-wise trade balance (line + column chart)
+
 •	📦 Top and Bottom export commodities (bar chart)
+
 •	📥 Top  and Bottom import commodities (bar chart)
+
 •	🌍 Country-wise  Top and Bottom export & import (bar chart)
+
 •	🔎 Tooltips with Share % and Growth %
+
 •	🎚️ Slicers for Year, Rank (Top N / Bottom N), Country/Commodity views
+
 📍 4 Business Impact and Insights
 
 •	Shows India’s strongest export sectors
+
 •	Highlights high-dependency import categories
+
 •	Reveals top contributing countries
+
 •	Share % and Growth % support strategic planning
+
 •	Useful for government policy, business strategy, and academic studies
+
 •	Enhances understanding of India’s global trade patterns
 
 🖼️ Screenshot

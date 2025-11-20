@@ -31,31 +31,31 @@ Includes:
 
 ⭐ Features
 
-📍 1 Business Problem
+📍 Business Problem
 
 India’s export–import data is large and difficult to interpret because it’s spread across many tables and categories. Users often struggle to identify top-performing commodities or countries, understand trade balance changes, or track growth trends clearly. Comparing export vs import patterns also becomes time-consuming. A dashboard is needed to present this information in a clear and easy-to-understand way.
 
-📍 2 Goal of the Dashboard
+📍 Goal of the Dashboard
 
 This dashboard helps present India’s export and import data in a clear and simple way. It allows users to compare yearly trade performance, understand trade balance trends, and identify top or bottom countries and commodities. It also provides Share % and Growth % insights to support better analysis and decision-making.
 
-📍 3  Key Visuals
+📍 Key Visuals
 
-•	📊 KPI Cards: Total Export, Total Import, Trade Balance
+📊 KPI Cards: Total Export, Total Import, Trade Balance
 
-•	📈 Year-wise trade balance (line + column chart)
+📈 Year-wise trade balance (line + column chart)
 
-•	📦 Top and Bottom export commodities (bar chart)
+📦 Top and Bottom export commodities (bar chart)
 
-•	📥 Top  and Bottom import commodities (bar chart)
+📥 Top  and Bottom import commodities (bar chart)
 
-•	🌍 Country-wise  Top and Bottom export & import (bar chart)
+🌍 Country-wise  Top and Bottom export & import (bar chart)
 
-•	🔎 Tooltips with Share % and Growth %
+🔎 Tooltips with Share % and Growth %
 
-•	🎚️ Slicers for Year, Rank (Top N / Bottom N), Country/Commodity views
+🎚️ Slicers for Year, Rank (Top N / Bottom N), Country/Commodity views
 
-📍 4 Business Impact and Insights
+📍 Business Impact and Insights
 
 •	Shows India’s strongest export sectors
 
